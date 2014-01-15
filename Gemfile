@@ -4,8 +4,9 @@ source 'https://rubygems.org'
 gem 'rails', '4.0.0'
 gem 'haml'
 gem 'haml-rails'
-
 gem 'sass-rails', '~> 4.0.0'
+gem 'jquery-rails'
+gem "jquery-ui-rails"
 
 gem 'sqlite3'
 
